@@ -38,3 +38,5 @@ When walking on blocks specified by path-blocks any living entity will receive a
 Players the permission `fastpaths.use` (granted on default) will also receive a speed boost.
 Any blocks specified in the no-snow-blocks will not have snow forming on them. 
 You can use this to have nice looking paths in snow biomes and then not have to place way too many torches :smile:
+
+#### Requires: [BKCommonLib](https://www.spigotmc.org/resources/bkcommonlib.39590/)
