@@ -1,0 +1,15 @@
+name: FastPaths
+main: nl.kaspermuller.fastpaths.FastPaths
+description: Make paths fast (and snow-free) :-)
+version: 0.1
+api-version: 1.18
+author: 7kasper
+depend: [BKCommonLib]
+permissions:
+  fastpaths.*:
+    description: Gives access to all fastpaths permissions.
+    children:
+       fastpaths.use: true
+  fastpaths.use:
+    description: Gives access to use fastpaths.
+    default: true

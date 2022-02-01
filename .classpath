@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Prog/Buildtools/Spigot/Spigot-API/target/spigot-api-1.18.1-R0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Prog/Buildtools/BKCommonLib-1.18.1-v3-SNAPSHOT-1224.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

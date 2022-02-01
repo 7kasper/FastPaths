@@ -1,0 +1,29 @@
+#======FastPahs=======#
+# Main config file of FastPaths.
+#
+# Path materials can be altered here.
+#=====================#
+
+# Blocks that give you speed when an entity walks on them.
+path-blocks:
+ - GRAVEL
+ - DIRT_PATH
+
+# Check interval for entity / player move.
+# This is in milliseconds. 
+# Lower number is more accurate but higher taxing on the server.
+interval: 200
+
+# Speed duration when standing on path block.
+duration: 7
+
+# Speed amplification when on path block.
+amplification: 1
+
+# Blocks that will not have snow form on the
+no-snow-blocks:
+ - GRAVEL
+ - DIRT_PATH
+
+
+version: 0.1
